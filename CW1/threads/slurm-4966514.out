@@ -1,5 +1,0 @@
-Loading intel-20.4/compilers
-  Loading requirement: intel-license gcc/8.2.0 intel-20.4/cc intel-20.4/fc
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-slurmstepd: error: *** JOB 4966514 ON r1i1n33 CANCELLED AT 2023-10-24T18:05:36 ***
-slurmstepd: error: *** STEP 4966514.45 ON r1i1n33 CANCELLED AT 2023-10-24T18:05:37 ***
